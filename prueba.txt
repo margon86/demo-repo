@@ -1,1 +1,3 @@
 prueba de git
+
+#prueba desde el gui
